@@ -53,6 +53,10 @@ def start(n):
         printName(links)
         clickNext(browser)
 
+def scrapeProfile(browser):
+    browser.find_elements_by_css_selector();
+
+
 start(13)
 
 
