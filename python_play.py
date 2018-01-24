@@ -54,16 +54,18 @@ def start(n, browser):
         clickNext(browser)
 
 def scrapeProfile(browser):
-    image = browser.find_element_by_css_selector('.presence-entity__image')
-    print(image.get_attribute('style'))
+    photo = browser.find_elements_by_css_selector('.presence-entity__image');
+    name = browser.find_element_by_css_selector('.pv-top-card-section__name');
+    # experience = browser.find_elements_by_css_selector('.Sans-17px-black-85%-semibold');
+    # education = browser.find_elements_by_css_selector('.pv-entity__school-name Sans-17px-black-85%-semibold');
+    print(photo)
+    print(name.get_attribute('innerHtml'))
+    # print(experience)
+    # print(education)
 
-
-
-start(1, browser)
+# start(1, browser)
+load(browser)
 browser.get('https://www.linkedin.com/in/miguelmoutela/')
 scrapeProfile(browser)
-
-
-
 
 # browser.close()
