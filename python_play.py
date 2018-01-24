@@ -63,10 +63,10 @@ getLinks(browser, links)
 clickNext(browser)
 getLinks(browser, links)
 
-
-for i in range(0, len(links), 1):
-    time.sleep(3)
-    browser.get(links[i])
+def loopThroughProfiles:
+    for i in range(0, len(links), 1):
+        time.sleep(3)
+        browser.get(links[i])
 
 
 
