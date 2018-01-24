@@ -5600,3 +5600,5 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 2018-01-24 15:12:23.907 plugin-container[8390:131212] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d2f, name = 'com.apple.tsm.portname'
 See /usr/include/servers/bootstrap_defs.h for the error codes.
 1516806743932	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-01-24 15:18:50.698 plugin-container[8557:134169] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.

@@ -59,7 +59,7 @@ def scrapeProfile(browser):
     # experience = browser.find_elements_by_css_selector('.Sans-17px-black-85%-semibold');
     # education = browser.find_elements_by_css_selector('.pv-entity__school-name Sans-17px-black-85%-semibold');
     print(photo)
-    print(name.get_attribute('innerHtml'))
+    print(name.get_attribute('innerHTML'))
     # print(experience)
     # print(education)
 
