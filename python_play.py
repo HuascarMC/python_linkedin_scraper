@@ -11,7 +11,7 @@ def load(browser):
     browser.get('https://www.linkedin.com');
 
     password = browser.find_element_by_css_selector('#login-password');
-    password.send_keys('qwaszx321')
+    password.send_keys('hakunamatata123')
 
     user = browser.find_element_by_css_selector('#login-email');
     user.send_keys('huascarmc@hotmail.com');
@@ -46,7 +46,7 @@ def getLinks(browser, links):
 #         time.sleep(3)
 #         browser.get(links[i])
 
-def start(n):
+def start(n, browser):
     load(browser)
     for i in range(0, n):
         getLinks(browser, links)
@@ -54,10 +54,14 @@ def start(n):
         clickNext(browser)
 
 def scrapeProfile(browser):
-    browser.find_elements_by_css_selector();
+    image = browser.find_element_by_css_selector('.presence-entity__image')
+    print(image.get_attribute('style'))
 
 
-start(13)
+
+start(1, browser)
+browser.get('https://www.linkedin.com/in/miguelmoutela/')
+scrapeProfile(browser)
 
 
 

@@ -5100,3 +5100,271 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1516800378013	geckodriver	INFO	geckodriver 0.19.1
+1516800378073	geckodriver	INFO	Listening on 127.0.0.1:53594
+1516800379151	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ww/fn2ccdx96qn3t4z9r_p0z6h80000gn/T/rust_mozprofile.CS8953s9K0H0"
+1516800379652	Marionette	INFO	Enabled via --marionette
+2018-01-24 13:26:20.438 plugin-container[15601:984015] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-24 13:26:20.706 plugin-container[15601:984015] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516800380855	Marionette	INFO	Listening on port 53605
+1516800380923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516800380972	Marionette	DEBUG	Register listener.js for window 2147483649
+1516800381010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516800381520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516800381521	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516800381838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1516800381957	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1516800382100	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1516800382988	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1516800382989	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1516800383916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+2018-01-24 13:26:24.270 firefox-bin[15600:983931] IMKInputSession [0x124cf08f0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x138e7bd00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516800384873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1516800385026	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1516800385255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516800385256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1516801303988	geckodriver	INFO	geckodriver 0.19.1
+1516801304046	geckodriver	INFO	Listening on 127.0.0.1:55201
+1516801305093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ww/fn2ccdx96qn3t4z9r_p0z6h80000gn/T/rust_mozprofile.bKj8Ix55sOuP"
+1516801305587	Marionette	INFO	Enabled via --marionette
+2018-01-24 13:41:46.467 plugin-container[15727:992418] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-24 13:41:46.688 plugin-container[15727:992418] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e43, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516801306942	Marionette	INFO	Listening on port 55212
+1516801306979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516801307038	Marionette	DEBUG	Register listener.js for window 2147483649
+1516801307077	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516801307661	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516801307662	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516801308064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1516801308218	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1516801308408	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1516801309391	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1516801309392	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1516801310225	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1516801310280	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1516801310288	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1516801310516	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1516801310516	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1516801311286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516801311298	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+2018-01-24 13:41:54.307 firefox-bin[15726:992330] IMKInputSession [0x126d4d080 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11b988be0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516801410381	geckodriver	INFO	geckodriver 0.19.1
+1516801410437	geckodriver	INFO	Listening on 127.0.0.1:55326
+1516801411484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ww/fn2ccdx96qn3t4z9r_p0z6h80000gn/T/rust_mozprofile.KUUeNvcPMdh5"
+1516801411936	Marionette	INFO	Enabled via --marionette
+2018-01-24 13:43:32.755 plugin-container[15760:993782] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-24 13:43:32.948 plugin-container[15760:993782] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x880b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516801413114	Marionette	INFO	Listening on port 55337
+1516801413124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516801413171	Marionette	DEBUG	Register listener.js for window 2147483649
+1516801450406	geckodriver	INFO	geckodriver 0.19.1
+1516801450469	geckodriver	INFO	Listening on 127.0.0.1:55378
+2018-01-24 13:44:11.316 firefox-bin[15759:993709] IMKInputSession [0x125068ee0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x110b1c9a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516801451505	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ww/fn2ccdx96qn3t4z9r_p0z6h80000gn/T/rust_mozprofile.ONlCR4iq4yG3"
+1516801451933	Marionette	INFO	Enabled via --marionette
+2018-01-24 13:44:12.692 plugin-container[15780:994460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-24 13:44:12.882 plugin-container[15780:994460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x75d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516801453109	Marionette	INFO	Listening on port 55389
+1516801453192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516801453244	Marionette	DEBUG	Register listener.js for window 2147483649
+1516801453273	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516801453681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516801453682	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516801453997	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1516801454103	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1516801454331	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1516801454860	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1516801454877	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1516801454878	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1516801454881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516801454882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1516801458908	geckodriver	INFO	geckodriver 0.19.1
+1516801458961	geckodriver	INFO	Listening on 127.0.0.1:55461
+1516801460006	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ww/fn2ccdx96qn3t4z9r_p0z6h80000gn/T/rust_mozprofile.Qj747Q0XtkQu"
+1516801460633	Marionette	INFO	Enabled via --marionette
+2018-01-24 13:44:21.663 plugin-container[15798:994753] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-24 13:44:21.915 plugin-container[15798:994753] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x80bf, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516801462124	Marionette	INFO	Listening on port 55472
+1516801462201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516801462260	Marionette	DEBUG	Register listener.js for window 2147483649
+1516801462281	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516801462667	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516801462667	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516801462986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1516801463088	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1516801463282	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1516801464522	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1516801464522	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1516801464946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516801465857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1516801472092	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1516801472105	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1516801472662	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1516801472676	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1516801473794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516801473794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516801473803	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516801476925	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+2018-01-24 13:44:39.274 firefox-bin[15796:994692] IMKInputSession [0x11d86ff70 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1111d0e80 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-01-24 13:44:41.965 firefox-bin[15796:994692] IMKInputSession [0x11d86ff70 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1111d0e80 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516801490396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516801503879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516803360025	geckodriver	INFO	geckodriver 0.19.1
+1516803360077	geckodriver	INFO	Listening on 127.0.0.1:56719
+1516803361136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ww/fn2ccdx96qn3t4z9r_p0z6h80000gn/T/rust_mozprofile.0VxgmGknkRbF"
+1516803361555	Marionette	INFO	Enabled via --marionette
+2018-01-24 14:16:02.231 plugin-container[16180:1015696] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-24 14:16:02.574 plugin-container[16180:1015696] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8433, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516803362673	Marionette	INFO	Listening on port 56734
+1516803362714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516803362772	Marionette	DEBUG	Register listener.js for window 2147483649
+1516803362793	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516803363448	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516803363448	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516803363928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+2018-01-24 14:16:04.034 firefox-bin[16179:1015633] IMKInputSession [0x12c7ca940 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12d6f03a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-01-24 14:16:04.044 firefox-bin[16179:1015633] IMKInputSession [0x12c7ca940 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12d6f03a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516803364128	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+2018-01-24 14:16:04.219 firefox-bin[16179:1015633] IMKInputSession [0x12c7ca940 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12d6f03a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-01-24 14:16:04.322 firefox-bin[16179:1015633] IMKInputSession [0x12c7ca940 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12d6f03a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516803364410	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1516803365596	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1516803365597	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1516803366843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516803366846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1516803373571	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1516803373585	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1516803373994	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1516803374008	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1516803375019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516803375020	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516803375025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803377894	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+2018-01-24 14:16:23.283 firefox-bin[16179:1015633] IMKInputSession [0x12c7ca940 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12d6f03a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516803391324	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516803391335	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803391415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516803391416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516803391417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516803391547	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803391551	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803391866	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1516803392475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/in/miguelmoutela/"
+1516803394992	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/in/miguelmoutela/"
+2018-01-24 14:16:46.045 firefox-bin[16179:1015633] IMKInputSession [0x12c7ca940 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12d6f03a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516803408598	geckodriver	INFO	geckodriver 0.19.1
+1516803408655	geckodriver	INFO	Listening on 127.0.0.1:57029
+1516803409731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ww/fn2ccdx96qn3t4z9r_p0z6h80000gn/T/rust_mozprofile.zKeqdqGLMKGl"
+1516803410300	Marionette	INFO	Enabled via --marionette
+2018-01-24 14:16:51.210 plugin-container[16207:1016700] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-24 14:16:51.450 plugin-container[16207:1016700] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8407, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516803411749	Marionette	INFO	Listening on port 57044
+1516803411820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516803411882	Marionette	DEBUG	Register listener.js for window 2147483649
+1516803411899	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516803412337	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516803412338	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516803412596	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1516803412725	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1516803412889	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+2018-01-24 14:16:53.471 firefox-bin[16206:1016648] IMKInputSession [0x133918550 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x124507520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516803413853	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1516803413853	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1516803414487	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516803415321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1516803420664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516803423630	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1516803423649	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1516803424005	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1516803424022	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1516803424745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516803424746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516803424746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1516803424746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516803426112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803427686	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803441149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516803441164	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803441256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516803441256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1516803441257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1516803441503	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803441511	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2210049434%22%5D"
+1516803442395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/in/miguelmoutela/"
+1516803442396	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1516803445125	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/in/miguelmoutela/"
+2018-01-24 14:18:31.130 firefox-bin[16206:1016648] IMKInputSession [0x133918550 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x124507520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-01-24 14:19:30.618 firefox-bin[16206:1016648] IMKInputSession [0x133918550 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x124507520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1516803576398	geckodriver	INFO	geckodriver 0.19.1
+1516803576472	geckodriver	INFO	Listening on 127.0.0.1:57769
+1516803577517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ww/fn2ccdx96qn3t4z9r_p0z6h80000gn/T/rust_mozprofile.uC0dICAviHKy"
+1516803577968	Marionette	INFO	Enabled via --marionette
+2018-01-24 14:19:38.729 plugin-container[16246:1018868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-24 14:19:38.934 plugin-container[16246:1018868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516803579110	Marionette	INFO	Listening on port 57780
+1516803579183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516803579228	Marionette	DEBUG	Register listener.js for window 2147483649
+1516803579247	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516803579722	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516803579723	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516803580018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1516803580300	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1516803580481	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1516803581725	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1516803581725	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1516803583036	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516803583039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+1516803585160	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516803585161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516803585161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
