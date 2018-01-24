@@ -53,15 +53,24 @@ def start(n, browser):
         printName(links)
         clickNext(browser)
 
+
 def scrapeProfile(browser):
     photo = browser.find_elements_by_css_selector('.presence-entity__image');
     name = browser.find_element_by_css_selector('.pv-top-card-section__name');
-    # experience = browser.find_elements_by_css_selector('.Sans-17px-black-85%-semibold');
-    # education = browser.find_elements_by_css_selector('.pv-entity__school-name Sans-17px-black-85%-semibold');
+    # experiences = browser.find_elements_by_css_selector('.Sans-17px-black-85\%\-semibold');
+    time.sleep(2)
+    browser.execute_script("window.scrollTo(0, 700)")
+    time.sleep(5)
     print(photo)
     print(name.get_attribute('innerHTML'))
-    # print(experience)
-    # print(education)
+    # for singleExperience in experiences:
+    #     print(singleExperience.get_attribute('innerHTML'))
+    # browser.execute_script("window.scrollTo(0, document.body.scrollHeight)")
+    education = browser.find_elements_by_css_selector('.pv-entity__school-name');
+    time.sleep(3)
+    print(education)
+    for singleEducation in education:
+        print(singleEducation.get_attribute('innerHTML'))
 
 # start(1, browser)
 load(browser)
