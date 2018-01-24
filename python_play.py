@@ -41,32 +41,19 @@ def getLinks(browser, links):
         links.append(thisPageLinks[i].get_attribute('href'));
     print(len(links));
 
-load(browser)
-getLinks(browser, links)
-printName(links)
-clickNext(browser)
-getLinks(browser, links)
-clickNext(browser)
-getLinks(browser, links)
-clickNext(browser)
-getLinks(browser, links)
-clickNext(browser)
-getLinks(browser, links)
-clickNext(browser)
-getLinks(browser, links)
-clickNext(browser)
-getLinks(browser, links)
-clickNext(browser)
-getLinks(browser, links)
-clickNext(browser)
-getLinks(browser, links)
-clickNext(browser)
-getLinks(browser, links)
+# def loopThroughProfiles:
+#     for i in range(0, len(links), 1):
+#         time.sleep(3)
+#         browser.get(links[i])
 
-def loopThroughProfiles:
-    for i in range(0, len(links), 1):
-        time.sleep(3)
-        browser.get(links[i])
+def start(n):
+    load(browser)
+    for i in range(0, n):
+        getLinks(browser, links)
+        printName(links)
+        clickNext(browser)
+
+start(13)
 
 
 
